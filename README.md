@@ -72,14 +72,4 @@ This project is a full-stack web application for selling online courses. Built u
 - **Course Sellers:** Sign up and log in to add and manage your courses.
 - **Users:** Log in with Google, browse available courses, and make payments through Razorpay.
 
-## Contributing
 
-Contributions are welcome! Please submit a pull request with your changes or improvements.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For any questions or feedback, please contact [your.email@example.com](mailto:your.email@example.com).
